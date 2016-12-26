@@ -1,0 +1,44 @@
+QxBranch is seeking a talented developer with a strong background in software engineering and computer science to join our team in Adelaide, working on innovative solutions to diverse problems.
+
+The successful candidate will have demonstrated effectiveness in working as part of a strong and committed team of software developers and the ability to effectively interact with clients as necessary.
+
+Experience should include the equivalent of 5 years within the industry, covering the full spectrum of software engineering practices.
+
+Responsibilities include:
+
+Hands on best practices software development in various modern languages
+Lead contribution to the achievement of the team's software engineering outcomes in a distributed environment
+Mentoring and advancement of junior team members
+Participate in and encourage our team culture of excellence and engineering quality
+Develop and maintain internal and external collaborative relationships
+
+Education and Experience Requirements:
+
+Bachelor degree or higher in Engineering (Computer Systems, Software, IT&T, Systems). Specialisations in computer science, advanced mathematics and physics are highly regarded
+Minimum 5 years' relevant industry experience
+Strong verbal and written communication skills
+
+Desired skills:
+
+Team-based work, including leadership of distributed teams
+Software engineering standards and practice, covering project definition, customer engagement, needs elicitation, model-based design (UML) and Agile and milestone-driven project management
+Engineering management systems and quality assurance, covering change control, version control, continuous integration, formal reviews and requirements verification
+Diverse software development principles, covering concurrency design patterns, dependency injection, inversion of control & performance profiling and tuning
+Multiple software languages and environments, including Windows and Linux systems, Web and REST API development and at least one of C++, C#, Java, Python or Ruby
+Modern, underlying technologies such as high performance computing, GPGPU, AWS/AMI or other cloud environments
+
+We provide:
+
+A growing, agile company, where strong performers are recognised and challenged
+Competitive salary based on candidate's ability to perform
+Modern, high-performance development environment and tools
+Adelaide CBD location with excellent transport links
+An equal opportunity workplace
+Flexible working hours
+
+QxBranch maintains world-class skills in systems engineering, data analytics, and risk analysis across multiple domains. We provide our customers with data analytics as a service, assured software solutions, and identification and development of quantum computing applications. The company is a global leader in developing quantum computing software and algorithms.
+
+QxBranch is headquartered in Washington, D.C., with offices in Hong Kong, London, and Adelaide. Our clients are financial, insurance and technology firms. Washington Life Magazine named QxBranch in its 2015 "Tech 25" list. To learn more about QxBranch visit our web site:  www.QxBranch.com
+
+To apply please go to the following website and submit your resume and a cover letter expressing your interest and qualification for the role:
+https://jobs.lever.co/qxbranch/80931ad1-149b-4d22-abae-62b97a4612cb?lever-origin=applied&lever-source%5B%5D=Seek
